@@ -1,3 +1,15 @@
+#!/usr/bin/env python
+
+__author__ = "Saulius Bartkus"
+__copyright__ = "Copyright 2017"
+
+__license__ = "GPL"
+__version__ = "1.0.1"
+__maintainer__ = "Saulius Bartkus"
+__email__ = "saulius181@yahoo.com"
+__status__ = "Production"
+
+
 import tkinter as tk
 from PIL import Image, ImageTk
 
